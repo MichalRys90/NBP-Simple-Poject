@@ -31,19 +31,19 @@ You need to create a user in the MySql database. Make settings in the applicatio
   }
   ```
 
-  * `/v1/nbp/getByAny`
+ * `/v1/nbp/getByAny`
  
   GET method, searches the database for all computers by a piece of text. Parameters: @RequestParam - any String.
 
-   * `/v1/nbp/getByDate`
+ * `/v1/nbp/getByDate`
  
-  GET method, searches the database for all computers based on the given date. Parameters: @RequestParam - Date date(Format(yyyy-MM-dd).
+  GET method, searches the database for all computers based on the given date. Parameters: @RequestParam - Date date(Format(yyyy-MM-dd)).
 
-   * `/v1/nbp/sortByName`
+ * `/v1/nbp/sortByName`
  
   GET method, sorts by product name. No parameters.
 
-   * `/v1/nbp/sortByDate`
+ * `/v1/nbp/sortByDate`
  
   GET method, sorts by posting date. No parameters.
 
