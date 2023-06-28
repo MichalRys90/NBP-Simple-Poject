@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Invoice>
+    <Computer>
+        <name>Acer</name>
+        <postingDate>2023-01-10</postingDate>
+        <costUsd>345.0</costUsd>
+        <costPln>1494.57</costPln>
+    </Computer>
+    <Computer>
+        <name>Acer</name>
+        <postingDate>2023-01-10</postingDate>
+        <costUsd>543.0</costUsd>
+        <costPln>2352.33</costPln>
+    </Computer>
+    <Computer>
+        <name>Acer</name>
+        <postingDate>2023-01-10</postingDate>
+        <costUsd>346.0</costUsd>
+        <costPln>1498.91</costPln>
+    </Computer>
+</Invoice>
